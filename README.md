@@ -21,4 +21,4 @@
 1. Убедитесь, что у вас установлен .NET SDK. Вы можете скачать его с [официального сайта .NET](https://dotnet.microsoft.com/download).
 2. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш_пользователь/ваш_репозиторий.git
+   git clone https://github.com/birionn/VRPO8.git
